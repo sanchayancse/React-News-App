@@ -4,6 +4,7 @@ https://myreactnewsapps.000webhostapp.com/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
+## Please Add Your Own AlanKey in App.js Line no 12.
 
 ## Available Scripts
 
